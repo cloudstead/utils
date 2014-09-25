@@ -28,3 +28,6 @@
 [submodule "templated-mail-sender"]
 	path = templated-mail-sender
 	url = https://github.com/cobbzilla/templated-mail-sender.git
+[submodule "authy-java"]
+	path = authy-java
+	url = https://github.com/cloudstead/authy-java.git
