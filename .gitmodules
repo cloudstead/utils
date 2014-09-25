@@ -1,0 +1,30 @@
+[submodule "cobbzilla-parent"]
+	path = cobbzilla-parent
+	url = https://github.com/cobbzilla/cobbzilla-parent.git
+[submodule "cobbzilla-utils"]
+	path = cobbzilla-utils
+	url = https://github.com/cobbzilla/cobbzilla-utils.git
+[submodule "cobbzilla-wizard"]
+	path = cobbzilla-wizard
+	url = https://github.com/cobbzilla/cobbzilla-wizard.git
+[submodule "merge-yml"]
+	path = merge-yml
+	url = https://github.com/cobbzilla/merge-yml.git
+[submodule "jestrel"]
+	path = jestrel
+	url = https://github.com/cobbzilla/jestrel.git
+[submodule "restex"]
+	path = restex
+	url = https://github.com/cobbzilla/restex.git
+[submodule "rooty-toots"]
+	path = rooty-toots
+	url = https://github.com/cobbzilla/rooty-toots.git
+[submodule "rooty-tooty"]
+	path = rooty-tooty
+	url = https://github.com/cobbzilla/rooty-tooty.git
+[submodule "sendgrid-util"]
+	path = sendgrid-util
+	url = https://github.com/cobbzilla/sendgrid-util.git
+[submodule "templated-mail-sender"]
+	path = templated-mail-sender
+	url = https://github.com/cobbzilla/templated-mail-sender.git
