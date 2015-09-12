@@ -32,6 +32,7 @@ This code is available under the GNU Affero General Public License, version 3: h
         <module>templated-mail-sender</module>
         <module>sendgrid-util</module>
         <module>authy-java</module>
+        <module>dyn-java</module>
     </modules>
 
 </project>

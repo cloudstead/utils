@@ -31,3 +31,6 @@
 [submodule "authy-java"]
 	path = authy-java
 	url = https://github.com/cloudstead/authy-java.git
+[submodule "dyn-java"]
+	path = dyn-java
+	url = https://github.com/cloudstead/dyn-java.git
